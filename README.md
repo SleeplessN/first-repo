@@ -1,6 +1,6 @@
 # first-repo
 
-git studying repository
+My git studying repository.
 
 ## Index
 
